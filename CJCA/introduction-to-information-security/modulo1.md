@@ -20,7 +20,7 @@ La seguridad de la información no se limita a proteger datos, sino a garantizar
 
 ---
 
-## 🎯 2. El Núcleo: Riesgo, Amenaza y Vulnerabilidad
+## 🎯 2. Riesgo, Amenaza y Vulnerabilidad
 
 Para la redacción de reportes técnicos de Pentesting, es mandatorio dominar la diferencia exacta entre estos tres conceptos interconectados:
 
@@ -59,7 +59,7 @@ La seguridad es un proceso continuo y dinámico estructurado en 7 fases estraté
 
 ---
 
-## 🛠️ 5. Arsenal Tecnológico Inicial
+## 🛠️ 5. Herramientas Iniciales 
 
 ### Infraestructura de Defensa (Blue Team)
 *   **Firewalls & IDS/IPS:** Barreras filtrantes y sistemas de monitorización para bloquear tráfico malicioso y anomalías en tiempo real.
